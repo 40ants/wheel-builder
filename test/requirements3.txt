@@ -1,0 +1,3 @@
+-f http://pypi.svetlyak.ru
+
+Django==11603-svn

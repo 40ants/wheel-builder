@@ -1,0 +1,26 @@
+#Django==11603-svn
+#PIL==1.1.7
+Markdown==2.0.3
+flickrapi==1.4.2
+BeautifulSoup==3.2.1
+pytils==0.2.3
+# django-faces==0.2.1 потому что требует PIL
+# django-openid==0.1.4
+MySQL-python==1.2.3
+gunicorn==0.16.1
+# django-counter==0.1.6 тоже требует PIL
+ipython==0.10
+Werkzeug==0.6
+django-antichaos==0.2.0
+django-extensions==0.4.1
+django-profiles==0.2
+django-compress==1.0.1
+django-perfect404==0.1.1
+django-metafeed==0.1.0
+django-debug-toolbar==0.8.1
+django-imagekit==0.3.2
+django-navigation==0.4.0
+#djapian==2.3.1
+django-guts==0.1.6
+Pygments==1.4
+

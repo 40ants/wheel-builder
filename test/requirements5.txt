@@ -1,0 +1,4 @@
+--allow-external django-openid
+--allow-unverified django-openid
+
+django-openid==0.3a1

@@ -1,0 +1,4 @@
+git+git://github.com/svetlyak40wt/django-tagging-ng.git@a3e78e419a6ab6436bc2
+svn+http://django-multilingual.googlecode.com/svn/trunk/
+git+git://github.com/svetlyak40wt/django-freetext.git
+git+git://github.com/svetlyak40wt/django-subs.git

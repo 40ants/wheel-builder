@@ -1,0 +1,5 @@
+--allow-external PIL
+--allow-unverified PIL
+PIL==1.1.7
+django-faces==0.2.1
+django-counter==0.1.6
